@@ -9,10 +9,12 @@
 #Gethub Actions
 - GitHub Actions is a continuous integration and continuous delivery (CI/CD) platform that allows you to automate your build, test, and deployment pipeline.
 - we can create workflows that build and test every pull request to your repository, or deploy merged pull requests to production.
-- Full-featured: Real-time Preview, Image (cross-domain) upload, Preformatted text/Code blocks/Tables insert, Code fold, Search replace, Read only, Themes, Multi-languages, L18n, HTML entities, Code syntax highlighting...;
+- Full-featured: Real-time Preview, Image (cross-domain) upload, Preformatted text/Code blocks/Tables insert, Code fold, Search replace, Read only, Themes, Multi-languages, L18n, HTML entities, Code syntax highlighting...
+- 
 #YML
 A YML file is a text document that contains data formatted using YAML (YAML Ain't Markup Language), a human-readable data format used for data serialization. It is used for reading and writing data independent of a specific programming language.
 https://ibb.co/Z10y7fq
+
 ##Building C++ Gradle
 Gradle is an open-source build automation tool that is designed to be flexible enough to build almost any type of software.
 Gradle has general support for the three major tool chains on major operating system: Clang, GCC and Visual C++.
