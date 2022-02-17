@@ -11,9 +11,9 @@
 - we can create workflows that build and test every pull request to your repository, or deploy merged pull requests to production.
 - Full-featured: Real-time Preview, Image (cross-domain) upload, Preformatted text/Code blocks/Tables insert, Code fold, Search replace, Read only, Themes, Multi-languages, L18n, HTML entities, Code syntax highlighting...
 - 
-#YML
+#YML Code
 A YML file is a text document that contains data formatted using YAML (YAML Ain't Markup Language), a human-readable data format used for data serialization. It is used for reading and writing data independent of a specific programming language.
-https://ibb.co/Z10y7fq
+code: https://ibb.co/Z10y7fq
 
 ##Building C++ Gradle
 Gradle is an open-source build automation tool that is designed to be flexible enough to build almost any type of software.
@@ -26,7 +26,7 @@ The C++ Unit Test Plugin provides the tasks, configurations and conventions for 
 #C++ file in Github
 - The main purpose of the file is to demonstrate the GitHub Actions of building and testing c++ using Gradle. 
 - The popular line "Hello World" is output by the code. The task of building and testing c++ with Gradle is completed on execution.
-https://ibb.co/FzXVTMN
+code: https://ibb.co/FzXVTMN
 
 ------------
 
@@ -41,6 +41,6 @@ It contain the following important concepts:
 * Steps
 
 ##IDE and Language
-C++ and All IDE Compatibility of C++,
+C++ and All IDE Compatibility of C++.
 
 
